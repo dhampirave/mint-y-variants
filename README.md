@@ -1,7 +1,12 @@
-WIP
-<BR>
-variants coming soon!
+Available Variants
+=======
+<a href="https://github.com/catppuccin/catppuccin">Catppuccin Mocha</a>
+* Mauve
+* Yellow
 
+<a href="https://github.com/catppuccin/catppuccin">Kanagawa</a>
+* Carp Yellow
+* Crystal Blue 
 
 Credits
 =======
