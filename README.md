@@ -4,6 +4,12 @@ Available Variants
 * Mauve
 * Yellow
 * Blue
+* Green
+* Lavender
+* Peach
+* Pink
+* Sky
+* Yellow
 
 <a href="https://github.com/catppuccin/catppuccin">Kanagawa</a>
 * Carp Yellow
