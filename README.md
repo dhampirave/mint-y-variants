@@ -1,6 +1,8 @@
 Available Variants
 =======
 <a href="https://github.com/catppuccin/catppuccin">Catppuccin Mocha</a>
+<details>
+  
 * Mauve
 * Yellow
 * Blue
@@ -10,10 +12,22 @@ Available Variants
 * Pink
 * Sky
 * Yellow
+  
+</details>
 
 <a href="https://github.com/catppuccin/catppuccin">Kanagawa</a>
+<details>
+
 * Carp Yellow
-* Crystal Blue 
+* Crystal Blue
+* Oni Violet
+* Peach Red
+* Sakura Pink
+* Spring Blue
+* Spring Green
+* Surimi Orange
+  
+</details>
 
 Credits
 =======
