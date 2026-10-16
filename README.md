@@ -1,3 +1,5 @@
+Update soon!!
+
 Available Variants
 =======
 <a href="https://github.com/catppuccin/catppuccin">Catppuccin Mocha</a>
@@ -10,6 +12,7 @@ Available Variants
 * Lavender
 * Peach
 * Pink
+* Red
 * Sky
 * Yellow
   
